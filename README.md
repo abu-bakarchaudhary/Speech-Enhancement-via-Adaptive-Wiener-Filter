@@ -123,5 +123,4 @@ spectrogram()        ← visualise
 | Institution | NUST CEME, Rawalpindi |
 | Batch | DE-45, Department of Computer Engineering |
 | Submitted To | LE Engr. Moiz Shahid |
-| Team | Abu-Bakar Chaudhary · Owais Qarni · Abdul Ahad |
 | Submission Date | 5th May 2026 |
